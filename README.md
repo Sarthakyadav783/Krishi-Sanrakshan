@@ -11,7 +11,23 @@ A comprehensive web dashboard for real-time crop image analytics under the Pradh
 
 > **📹 [Click here to watch the demo video](https://drive.google.com/drive/folders/1v5UuAlxmHhOUXnuxi3VdFHptqgNmy9aC?usp=drive_link)**
 
+## 📸 Screenshots
 
+### Main Dashboard
+![Dashboard Overview](sampe_images/Home.png)
+*Real-time statistics, interactive map, and recent activity feed*
+
+### Crop Images Gallery
+![Crop Images](sampe_images/images.png)
+*Browse and filter crop images with AI analysis results*
+
+### Damage Alerts
+![Damage Alerts](sampe_images/alerts.png)
+*Monitor and manage crop damage reports with severity indicators*
+
+### Analytics Dashboard
+![Analytics](sampe_images/analytics.png)
+*Comprehensive insights with charts and regional statistics*
 
 ## 🌾 Overview
 

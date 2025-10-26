@@ -5,6 +5,30 @@
 
 A comprehensive web dashboard for real-time crop image analytics under the Pradhan Mantri Fasal Bima Yojana (PMFBY) initiative.
 
+## 🎥 Demo Video
+
+[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1v5UuAlxmHhOUXnuxi3VdFHptqgNmy9aC?usp=drive_link)
+
+> **📹 [Click here to watch the demo video](https://drive.google.com/drive/folders/1v5UuAlxmHhOUXnuxi3VdFHptqgNmy9aC?usp=drive_link)**
+
+## 📸 Screenshots
+
+### Main Dashboard
+![Dashboard Overview](sampe_images/Home.png)
+*Real-time statistics, interactive map, and recent activity feed*
+
+### Crop Images Gallery
+![Crop Images](sampe_images/images.png)
+*Browse and filter crop images with AI analysis results*
+
+### Damage Alerts
+![Damage Alerts](sampe_images/alerts.png)
+*Monitor and manage crop damage reports with severity indicators*
+
+### Analytics Dashboard
+![Analytics](sampe_images/analytics.png)
+*Comprehensive insights with charts and regional statistics*
+
 ## 🌾 Overview
 
 Krishi Sanrakshan (Agricultural Protection) is a digital platform that leverages mobile photography and artificial intelligence for timely, accurate crop condition assessment. This dashboard provides real-time monitoring and analytics for crop insurance claim processing.
